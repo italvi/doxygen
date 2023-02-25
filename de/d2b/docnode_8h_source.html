@@ -1530,7 +1530,7 @@ $(document).ready(function(){initNavTree('de/d2b/docnode_8h_source.html','../../
 <div class="line"><a id="l01434" name="l01434"></a><span class="lineno"> 1434</span>{</div>
 <div class="line"><a id="l01435" name="l01435"></a><span class="lineno"> 1435</span>  <span class="keyword">auto</span> node = std::make_unique&lt;DocNodeVariant&gt;(T(std::forward&lt;Args&gt;(args)...));</div>
 <div class="line"><a id="l01436" name="l01436"></a><span class="lineno"> 1436</span>  std::get_if&lt;T&gt;(node.get())-&gt;setThisVariant(node.get());</div>
-<div class="line"><a id="l01437" name="l01437"></a><span class="lineno"> 1437</span>  <span class="keywordflow">return</span> std::move(node);</div>
+<div class="line"><a id="l01437" name="l01437"></a><span class="lineno"> 1437</span>  <span class="keywordflow">return</span> node;</div>
 <div class="line"><a id="l01438" name="l01438"></a><span class="lineno"> 1438</span>}</div>
 <div class="line"><a id="l01439" name="l01439"></a><span class="lineno"> 1439</span> </div>
 <div class="line"><a id="l01440" name="l01440"></a><span class="lineno"> 1440</span><span class="preprocessor">#endif</span></div>

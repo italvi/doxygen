@@ -845,7 +845,7 @@ template&lt;class T , class... Args&gt; </div>
 <div class="fragment"><div class="line"><span class="lineno"> 1434</span>{</div>
 <div class="line"><span class="lineno"> 1435</span>  <span class="keyword">auto</span> node = std::make_unique&lt;DocNodeVariant&gt;(T(std::forward&lt;Args&gt;(args)...));</div>
 <div class="line"><span class="lineno"> 1436</span>  std::get_if&lt;T&gt;(node.get())-&gt;setThisVariant(node.get());</div>
-<div class="line"><span class="lineno"> 1437</span>  <span class="keywordflow">return</span> std::move(node);</div>
+<div class="line"><span class="lineno"> 1437</span>  <span class="keywordflow">return</span> node;</div>
 <div class="line"><span class="lineno"> 1438</span>}</div>
 </div><!-- fragment -->
 </div>
