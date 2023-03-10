@@ -3407,10 +3407,10 @@ Functions</h2></td></tr>
 <div class="line"><span class="lineno"> 2208</span>  <span class="keywordflow">return</span> str==kw ||                                          <span class="comment">// exact match</span></div>
 <div class="line"><span class="lineno"> 2209</span>         (str.<a class="code hl_function" href="../../d9/d45/class_q_c_string.html#a1f43c0a4958cf17f086dc0e3a4b13a68">startsWith</a>(kw) &amp;&amp; !<a class="code hl_function" href="../../d8/d3c/util_8h.html#ae320c88a8522836f00095d566529046f">isId</a>(str.<a class="code hl_function" href="../../d9/d45/class_q_c_string.html#a4c8be5d062cc14919b53ff0a3c8f9a4f">at</a>(kw.<a class="code hl_function" href="../../d9/d45/class_q_c_string.html#acc50f8bef7d726d5c9d42bab4d89f7c7">length</a>()))); <span class="comment">// match that is not a substring</span></div>
 <div class="ttc" id="aclass_q_c_string_html_a4c8be5d062cc14919b53ff0a3c8f9a4f"><div class="ttname"><a href="../../d9/d45/class_q_c_string.html#a4c8be5d062cc14919b53ff0a3c8f9a4f">QCString::at</a></div><div class="ttdeci">char &amp; at(size_t i)</div><div class="ttdoc">Returns a reference to the character at index i.</div><div class="ttdef"><b>Definition:</b> <a href="../../d9/d45/class_q_c_string.html#l00513">qcstring.h:513</a></div></div>
-<div class="ttc" id="autil_8h_html_ae320c88a8522836f00095d566529046f"><div class="ttname"><a href="../../d8/d3c/util_8h.html#ae320c88a8522836f00095d566529046f">isId</a></div><div class="ttdeci">bool isId(int c)</div><div class="ttdef"><b>Definition:</b> <a href="../../d8/d3c/util_8h.html#l00169">util.h:169</a></div></div>
+<div class="ttc" id="autil_8h_html_ae320c88a8522836f00095d566529046f"><div class="ttname"><a href="../../d8/d3c/util_8h.html#ae320c88a8522836f00095d566529046f">isId</a></div><div class="ttdeci">bool isId(int c)</div><div class="ttdef"><b>Definition:</b> <a href="../../d8/d3c/util_8h.html#l00170">util.h:170</a></div></div>
 <div class="line"><span class="lineno"> 2210</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../d7/d5c/qcstring_8h_source.html#l00513">QCString::at()</a>, <a class="el" href="../../d8/d3c/util_8h_source.html#l00169">isId()</a>, <a class="el" href="../../d7/d5c/qcstring_8h_source.html#l00141">QCString::length()</a>, and <a class="el" href="../../d7/d5c/qcstring_8h_source.html#l00444">QCString::startsWith()</a>.</p>
+<p class="reference">References <a class="el" href="../../d7/d5c/qcstring_8h_source.html#l00513">QCString::at()</a>, <a class="el" href="../../d8/d3c/util_8h_source.html#l00170">isId()</a>, <a class="el" href="../../d7/d5c/qcstring_8h_source.html#l00141">QCString::length()</a>, and <a class="el" href="../../d7/d5c/qcstring_8h_source.html#l00444">QCString::startsWith()</a>.</p>
 
 </div>
 </div>
@@ -3479,12 +3479,12 @@ Functions</h2></td></tr>
 <div class="line"><span class="lineno"> 2632</span>      <span class="keywordflow">return</span> cd;</div>
 <div class="line"><span class="lineno"> 2633</span>    }</div>
 <div class="line"><span class="lineno"> 2634</span>  }</div>
-<div class="ttc" id="autil_8cpp_html_a337616be3bea43c6c1a7c898bdbfda7c"><div class="ttname"><a href="../../df/d2d/util_8cpp.html#a337616be3bea43c6c1a7c898bdbfda7c">extractClassNameFromType</a></div><div class="ttdeci">int extractClassNameFromType(const QCString &amp;type, int &amp;pos, QCString &amp;name, QCString &amp;templSpec, SrcLangExt lang)</div><div class="ttdef"><b>Definition:</b> <a href="../../df/d2d/util_8cpp.html#l04305">util.cpp:4305</a></div></div>
+<div class="ttc" id="autil_8cpp_html_a337616be3bea43c6c1a7c898bdbfda7c"><div class="ttname"><a href="../../df/d2d/util_8cpp.html#a337616be3bea43c6c1a7c898bdbfda7c">extractClassNameFromType</a></div><div class="ttdeci">int extractClassNameFromType(const QCString &amp;type, int &amp;pos, QCString &amp;name, QCString &amp;templSpec, SrcLangExt lang)</div><div class="ttdef"><b>Definition:</b> <a href="../../df/d2d/util_8cpp.html#l04347">util.cpp:4347</a></div></div>
 <div class="line"><span class="lineno"> 2635</span> </div>
 <div class="line"><span class="lineno"> 2636</span>  <span class="keywordflow">return</span> 0;</div>
 <div class="line"><span class="lineno"> 2637</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../da/d1f/code_8l_source.html#l00072">DBG_CTX</a>, <a class="el" href="../../df/d2d/util_8cpp_source.html#l04305">extractClassNameFromType()</a>, and <a class="el" href="../../d7/d5c/qcstring_8h_source.html#l00607">qPrint()</a>.</p>
+<p class="reference">References <a class="el" href="../../da/d1f/code_8l_source.html#l00072">DBG_CTX</a>, <a class="el" href="../../df/d2d/util_8cpp_source.html#l04347">extractClassNameFromType()</a>, and <a class="el" href="../../d7/d5c/qcstring_8h_source.html#l00607">qPrint()</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../da/d1f/code_8l_source.html#l03071">generateClassMemberLink()</a>, <a class="el" href="../../da/d1f/code_8l_source.html#l03176">generateMemberLink()</a>, <a class="el" href="../../da/d1f/code_8l_source.html#l02766">getLinkInScope()</a>, <a class="el" href="../../da/d1f/code_8l_source.html#l02639">setCallContextForVar()</a>, <a class="el" href="../../da/d1f/code_8l_source.html#l02749">updateCallContextForSmartPointer()</a>, and <a class="el" href="../../da/d1f/code_8l_source.html#l03436">writeObjCMethodCall()</a>.</p>
 
