@@ -1,5 +1,6 @@
 var NAVTREEINDEX119 =
 {
+"de/d4f/class_qhp.html#ab10e4a689479c8fd8a51a5563db674d4":[8,0,455,2],
 "de/d4f/class_qhp.html#abdf5cf3986a9cd5ac14e4b32a026a2e1":[8,0,455,3],
 "de/d4f/class_qhp.html#afdd0e586dc670e184d23bf80c880f0cf":[8,0,455,8],
 "de/d57/struct_output_gen_intf_1_1end_quick_indices.html":[8,0,5,72],
@@ -248,6 +249,5 @@ var NAVTREEINDEX119 =
 "de/d82/class_translator_polish.html#a47e84feab31cd247e73920da5100be99":[8,0,609,170],
 "de/d82/class_translator_polish.html#a4a1891d1aa67f42df654be0c805034f1":[8,0,609,62],
 "de/d82/class_translator_polish.html#a50377b9dde8bdb7e761f6aefa74aeab3":[8,0,609,197],
-"de/d82/class_translator_polish.html#a50ad2c9bf96d94a8a21a464b81a4ab3c":[8,0,609,227],
-"de/d82/class_translator_polish.html#a53d42dc6fa5e09ed60361c94b8aa174a":[8,0,609,75]
+"de/d82/class_translator_polish.html#a50ad2c9bf96d94a8a21a464b81a4ab3c":[8,0,609,227]
 };

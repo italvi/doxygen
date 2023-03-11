@@ -1,5 +1,6 @@
 var NAVTREEINDEX87 =
 {
+"db/d5f/class_translator_hungarian.html#ac66fa128b7a2d254a617f470651ee9f8":[8,0,597,173],
 "db/d5f/class_translator_hungarian.html#ac7eab9d4a2202cf75525b96885c90948":[8,0,597,82],
 "db/d5f/class_translator_hungarian.html#ac80f2158220d73ded4d6f604d4352a86":[8,0,597,180],
 "db/d5f/class_translator_hungarian.html#acb3753e2a303782d62f6da66abeeda77":[8,0,597,238],
@@ -248,6 +249,5 @@ var NAVTREEINDEX87 =
 "db/da2/class_search_indices_context.html":[8,0,475],
 "db/da2/class_search_indices_context.html#a0d9f0c82ece3f7f424876264b2bd559c":[8,0,475,4],
 "db/da2/class_search_indices_context.html#a19a2d502d732886c7424dc7e52f0a0c2":[8,0,475,1],
-"db/da2/class_search_indices_context.html#a63725e1aacd912b80247bf25bcc4208c":[8,0,475,7],
-"db/da2/class_search_indices_context.html#aa6833144011792ebc333975346f04efc":[8,0,475,2]
+"db/da2/class_search_indices_context.html#a63725e1aacd912b80247bf25bcc4208c":[8,0,475,7]
 };
