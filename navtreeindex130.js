@@ -248,6 +248,6 @@ var NAVTREEINDEX130 =
 "df/dca/structfmt_1_1formatter_3_01_src_lang_ext_01_4.html#a0c8ba28df2596924bc3cd8fd355f5ffb":[8,0,2,8,0],
 "df/dcd/classreg_1_1_ex_1_1_private.html":[7,0,13,0,0],
 "df/dcd/classreg_1_1_ex_1_1_private.html":[8,0,6,0,0],
-"df/dcd/classreg_1_1_ex_1_1_private.html#a26bba20b316615c53a77eb522602df8a":[7,0,13,0,0,2],
-"df/dcd/classreg_1_1_ex_1_1_private.html#a26bba20b316615c53a77eb522602df8a":[8,0,6,0,0,2]
+"df/dcd/classreg_1_1_ex_1_1_private.html#a26bba20b316615c53a77eb522602df8a":[8,0,6,0,0,2],
+"df/dcd/classreg_1_1_ex_1_1_private.html#a26bba20b316615c53a77eb522602df8a":[7,0,13,0,0,2]
 };
