@@ -1,5 +1,6 @@
 var NAVTREEINDEX94 =
 {
+"dc/d44/class_translator_spanish.html#aadf5c607d5cfb0b54ad630b974861624":[8,0,618,218],
 "dc/d44/class_translator_spanish.html#aaf0906ea32305a3d43fbdbc5be4f0764":[8,0,618,244],
 "dc/d44/class_translator_spanish.html#aaf51e333d833deb1565e758fc91539e8":[8,0,618,258],
 "dc/d44/class_translator_spanish.html#aaf8244d61d6113b129bd1c20bc6fb9e1":[8,0,618,159],
@@ -75,8 +76,8 @@ var NAVTREEINDEX94 =
 "dc/d44/class_translator_spanish.html#afe12ea704c8ac0900c3018ee64576f46":[8,0,618,62],
 "dc/d44/class_translator_spanish.html#afe520e8844f8e72cc724a29364cf3121":[8,0,618,80],
 "dc/d44/class_translator_spanish.html#afeff93e85b89d703be5e4ea8d5f8d458":[8,0,618,120],
-"dc/d48/struct_output_gen_intf_1_1start_member_sections.html":[7,0,10,143],
 "dc/d48/struct_output_gen_intf_1_1start_member_sections.html":[8,0,5,143],
+"dc/d48/struct_output_gen_intf_1_1start_member_sections.html":[7,0,10,143],
 "dc/d48/struct_output_gen_intf_1_1start_member_sections.html#a56f9b10889daaa190eafd5412aaee256":[7,0,10,143,0],
 "dc/d48/struct_output_gen_intf_1_1start_member_sections.html#a56f9b10889daaa190eafd5412aaee256":[8,0,5,143,0],
 "dc/d53/class_translator_lithuanian.html":[8,0,606],
@@ -248,6 +249,5 @@ var NAVTREEINDEX94 =
 "dc/d53/class_translator_lithuanian.html#adec683c693165e685a6275c8a525c8e7":[8,0,606,49],
 "dc/d53/class_translator_lithuanian.html#ae0142cd05e890ba622efa49876d03797":[8,0,606,127],
 "dc/d53/class_translator_lithuanian.html#ae0a22d36dc5682238534d05a7f93f481":[8,0,606,164],
-"dc/d53/class_translator_lithuanian.html#ae3b378a15f66eca68cbdb4f6cef542ad":[8,0,606,181],
-"dc/d53/class_translator_lithuanian.html#ae519eb25a3b63efecc9581fb472e718f":[8,0,606,8]
+"dc/d53/class_translator_lithuanian.html#ae3b378a15f66eca68cbdb4f6cef542ad":[8,0,606,181]
 };

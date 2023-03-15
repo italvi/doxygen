@@ -1,5 +1,6 @@
 var NAVTREEINDEX66 =
 {
+"d8/dfb/class_translator.html#aec4fcf07808e6e67e202de0a7fac31fe":[8,0,565,47],
 "d8/dfb/class_translator.html#aee6d584921e7851c57e016cb0c64c01b":[8,0,565,293],
 "d8/dfb/class_translator.html#aee8fb1ec3c97865efe420ed67ca49c58":[8,0,565,33],
 "d8/dfb/class_translator.html#aef130f6aef47d68ad82b30299a8f704f":[8,0,565,39],
@@ -34,12 +35,12 @@ var NAVTREEINDEX66 =
 "d8/dfb/class_translator.html#afad391f3cbfb5ce6332b7239f8e2049a":[8,0,565,252],
 "d8/dfb/class_translator.html#afcd2ee932660156f0d368863391e1c90":[8,0,565,297],
 "d8/dfb/class_translator.html#afe1d9b3dcd74bb8fb8c116c2c0e86e2e":[8,0,565,70],
-"d9/d04/classvhdl_1_1parser_1_1_token_manager_error_handler.html":[7,0,16,0,6],
 "d9/d04/classvhdl_1_1parser_1_1_token_manager_error_handler.html":[8,0,8,0,6],
+"d9/d04/classvhdl_1_1parser_1_1_token_manager_error_handler.html":[7,0,16,0,6],
 "d9/d04/classvhdl_1_1parser_1_1_token_manager_error_handler.html#a0afc3cb894583ee40c53a3a5c54495dc":[7,0,16,0,6,0],
 "d9/d04/classvhdl_1_1parser_1_1_token_manager_error_handler.html#a0afc3cb894583ee40c53a3a5c54495dc":[8,0,8,0,6,0],
-"d9/d04/classvhdl_1_1parser_1_1_token_manager_error_handler.html#a27aa05445202b2d20d5cd95983d8fd86":[7,0,16,0,6,1],
 "d9/d04/classvhdl_1_1parser_1_1_token_manager_error_handler.html#a27aa05445202b2d20d5cd95983d8fd86":[8,0,8,0,6,1],
+"d9/d04/classvhdl_1_1parser_1_1_token_manager_error_handler.html#a27aa05445202b2d20d5cd95983d8fd86":[7,0,16,0,6,1],
 "d9/d04/classvhdl_1_1parser_1_1_token_manager_error_handler.html#a6d2fbf9bff5de1775a78dc4872ccdca5":[8,0,8,0,6,4],
 "d9/d04/classvhdl_1_1parser_1_1_token_manager_error_handler.html#a6d2fbf9bff5de1775a78dc4872ccdca5":[7,0,16,0,6,4],
 "d9/d04/classvhdl_1_1parser_1_1_token_manager_error_handler.html#af0dffd5c5809a0bf16881b19c5786fc3":[8,0,8,0,6,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX66 =
 "d9/d1b/class_translator_dutch.html#a6d46de54c2484599c9d22e9b8d2080e6":[8,0,590,101],
 "d9/d1b/class_translator_dutch.html#a6d8821ed61cf8ffa58ca61d2305bf0d0":[8,0,590,198],
 "d9/d1b/class_translator_dutch.html#a6de3ccbf8b3beaf43b9bd4292717acc4":[8,0,590,235],
-"d9/d1b/class_translator_dutch.html#a6ee53b5c37b48e641e00e129ec953ee7":[8,0,590,130],
-"d9/d1b/class_translator_dutch.html#a6f1f67b55437bda6aca94a86449cd3e1":[8,0,590,201]
+"d9/d1b/class_translator_dutch.html#a6ee53b5c37b48e641e00e129ec953ee7":[8,0,590,130]
 };
