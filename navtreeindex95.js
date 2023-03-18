@@ -1,5 +1,6 @@
 var NAVTREEINDEX95 =
 {
+"dc/d53/class_translator_lithuanian.html#ae3b378a15f66eca68cbdb4f6cef542ad":[8,0,606,181],
 "dc/d53/class_translator_lithuanian.html#ae519eb25a3b63efecc9581fb472e718f":[8,0,606,8],
 "dc/d53/class_translator_lithuanian.html#ae6eb6fcfc3a9c0da6e6cb63f4963a29e":[8,0,606,115],
 "dc/d53/class_translator_lithuanian.html#ae7d46ca0a4660dab81d90d01a2cdef6f":[8,0,606,155],
@@ -20,10 +21,10 @@ var NAVTREEINDEX95 =
 "dc/d53/class_translator_lithuanian.html#affba1050665c411e2911b41246e0b370":[8,0,606,40],
 "dc/d54/struct_output_gen_intf_1_1end_parameter_list.html":[8,0,5,66],
 "dc/d54/struct_output_gen_intf_1_1end_parameter_list.html":[7,0,10,66],
-"dc/d54/struct_output_gen_intf_1_1end_parameter_list.html#a511c4e81037b6f1222571fb711fb3874":[7,0,10,66,0],
 "dc/d54/struct_output_gen_intf_1_1end_parameter_list.html#a511c4e81037b6f1222571fb711fb3874":[8,0,5,66,0],
-"dc/d62/struct_output_gen_intf_1_1end_member_sections.html":[7,0,10,60],
+"dc/d54/struct_output_gen_intf_1_1end_parameter_list.html#a511c4e81037b6f1222571fb711fb3874":[7,0,10,66,0],
 "dc/d62/struct_output_gen_intf_1_1end_member_sections.html":[8,0,5,60],
+"dc/d62/struct_output_gen_intf_1_1end_member_sections.html":[7,0,10,60],
 "dc/d62/struct_output_gen_intf_1_1end_member_sections.html#a43aaf79645e0d0a8e31752b159e09f7f":[8,0,5,60,0],
 "dc/d62/struct_output_gen_intf_1_1end_member_sections.html#a43aaf79645e0d0a8e31752b159e09f7f":[7,0,10,60,0],
 "dc/d64/class_define.html":[8,0,99],
@@ -90,8 +91,8 @@ var NAVTREEINDEX95 =
 "dc/d6f/namespace_portuguese_translator_utils.html#a813edc55b09a4390e262ac196a2ae756":[7,0,12,2],
 "dc/d6f/namespace_portuguese_translator_utils.html#a81439ef1e5570b8ba0fc50f4819f43ba":[7,0,12,0],
 "dc/d6f/namespace_portuguese_translator_utils.html#ab5299ba7903c9a3401dc7335f5f3ac57":[7,0,12,1],
-"dc/d75/struct_output_gen_intf_1_1end_desc_for_item.html":[8,0,5,15],
 "dc/d75/struct_output_gen_intf_1_1end_desc_for_item.html":[7,0,10,15],
+"dc/d75/struct_output_gen_intf_1_1end_desc_for_item.html":[8,0,5,15],
 "dc/d75/struct_output_gen_intf_1_1end_desc_for_item.html#a5fb58503bf1b1549496a96f281f9c7b1":[7,0,10,15,0],
 "dc/d75/struct_output_gen_intf_1_1end_desc_for_item.html#a5fb58503bf1b1549496a96f281f9c7b1":[8,0,5,15,0],
 "dc/d77/class_member_linked_ref_map.html":[8,0,391],
@@ -248,6 +249,5 @@ var NAVTREEINDEX95 =
 "dc/d98/doxygen_8cpp.html#aad0c3ffb33cd6ae914d3e4013f2f142a":[9,0,2,105,32],
 "dc/d98/doxygen_8cpp.html#aad23f7d576fcba6cc66edf702842a9d3":[9,0,2,105,130],
 "dc/d98/doxygen_8cpp.html#aad3dd00ae1c58bfc06981afcc5f14a53":[9,0,2,105,109],
-"dc/d98/doxygen_8cpp.html#ab022f0e28018d318dad5e23a75a40f02":[9,0,2,105,136],
-"dc/d98/doxygen_8cpp.html#ab0fa1b0c948e78e0d0d749ff1f5740b5":[9,0,2,105,149]
+"dc/d98/doxygen_8cpp.html#ab022f0e28018d318dad5e23a75a40f02":[9,0,2,105,136]
 };
