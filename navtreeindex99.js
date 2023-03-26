@@ -1,6 +1,6 @@
 var NAVTREEINDEX99 =
 {
-"dd/d08/struct_output_gen_intf_1_1end_subsubsection.html#a69ea17cdd08a1fe706615820c03e3a73":[8,0,5,76,0],
+"dd/d08/struct_output_gen_intf_1_1end_subsubsection.html#a69ea17cdd08a1fe706615820c03e3a73":[7,0,10,76,0],
 "dd/d0b/class_translator_slovene.html":[8,0,617],
 "dd/d0b/class_translator_slovene.html#a024b6c46e82865f106bbbde2bcb1b818":[8,0,617,22],
 "dd/d0b/class_translator_slovene.html#a03a83cef286998d2ac169efe64ea200b":[8,0,617,3],
