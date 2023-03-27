@@ -212,11 +212,11 @@ var NAVTREEINDEX =
 "df/d20/class_translator_vietnamese.html#a781ee616acb6a6f5979f2652dec7342c",
 "df/d2d/util_8cpp.html#a1b56719a14e986911d90aae56767dd5b",
 "df/d4b/class_v_h_d_l_outline_parser.html#ab82a8a552abea4291fba5796463fe76a",
-"df/d75/class_translator_greek.html#a6b8f76e8323537ee0d27e15514278c83",
-"df/da5/struct_output_gen_intf_1_1end_member_list.html#a624a76d77bc4fe5a4949d2d2afde3270",
-"df/dc8/class_output_list.html#acf8ce762c6c7838d86ad132f20a2306a",
-"df/dc8/class_translator_indonesian.html#afc31e80ecc28e81348280a64422a8103",
-"functions_rela.html"
+"df/d75/class_translator_greek.html#a68dffd25921753ff383084a7b9740efd",
+"df/da1/definition_8h.html",
+"df/dc8/class_output_list.html#acc616cc002e406c1c5816f020fb7d60c",
+"df/dc8/class_translator_indonesian.html#af1e251ffec041e91a4aae107ded06676",
+"functions_k.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
