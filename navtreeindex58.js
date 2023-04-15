@@ -1,5 +1,6 @@
 var NAVTREEINDEX58 =
 {
+"d7/d97/namespacedef_8h.html#ac3b0b7f32404c52577802d626b64a49e":[10,0,2,182,7],
 "d7/d97/namespacedef_8h.html#ac4a3a7d929c1539b4580ef9895c48f0f":[10,0,2,182,12],
 "d7/d97/namespacedef_8h.html#ae303e4de18684cb3d0c72d936cc0654f":[10,0,2,182,13],
 "d7/d97/namespacedef_8h.html#ae480c007a9e16b642a72ffb1119c5812":[10,0,2,182,15],
@@ -248,6 +249,5 @@ var NAVTREEINDEX58 =
 "d7/de8/class_ref_list.html":[9,0,460],
 "d7/de8/class_ref_list.html#a17bc1029e261db1d27fc066485b28a4d":[9,0,460,13],
 "d7/de8/class_ref_list.html#a1b8f629582102465bc198cb011537408":[9,0,460,12],
-"d7/de8/class_ref_list.html#a1fb6f991a5826241faab676ba08fb5e3":[9,0,460,4],
-"d7/de8/class_ref_list.html#a256f77e4a8638c72df0883eb07d3dd3f":[9,0,460,15]
+"d7/de8/class_ref_list.html#a1fb6f991a5826241faab676ba08fb5e3":[9,0,460,4]
 };
