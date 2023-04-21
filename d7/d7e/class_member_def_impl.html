@@ -8100,7 +8100,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno"> 1887</span>    <span class="keyword">auto</span> &amp;info = it-&gt;second;</div>
 <div class="line"><span class="lineno"> 1888</span>    <span class="comment">//printf(&quot;name=%s m_grpId=%d info=%p\n&quot;,qPrint(name()),m_grpId,info);</span></div>
 <div class="line"><span class="lineno"> 1889</span>    <span class="comment">//QCString *pMemGrp = Doxygen::memberDocDict[grpId];</span></div>
-<div class="line"><span class="lineno"> 1890</span>    hasDocs = hasDocs ||</div>
+<div class="line"><span class="lineno"> 1890</span>    hasDocs = hasDocs &amp;&amp;</div>
 <div class="line"><span class="lineno"> 1891</span>                  <span class="comment">// part of a documented member group</span></div>
 <div class="line"><span class="lineno"> 1892</span>                 (<a class="code hl_variable" href="../../d7/d7e/class_member_def_impl.html#a7a7b9673d0ac89e53f9a479720171f6b">m_grpId</a>!=-1 &amp;&amp; !(info-&gt;doc.isEmpty() &amp;&amp; info-&gt;header.isEmpty()));</div>
 <div class="line"><span class="lineno"> 1893</span>  }</div>
