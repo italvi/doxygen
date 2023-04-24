@@ -1,7 +1,5 @@
 var NAVTREEINDEX89 =
 {
-"db/dcc/class_translator_korean.html#aed1f9bd363efefee64aba4fcac1e76ff":[9,0,602,231],
-"db/dcc/class_translator_korean.html#aedacbfa496ebf67af407c473633a9b93":[9,0,602,210],
 "db/dcc/class_translator_korean.html#af00d2e0f5692c1f18a1c210152945e28":[9,0,602,122],
 "db/dcc/class_translator_korean.html#af07d6e70c8d3d6b2b2ab81e88e1bb887":[9,0,602,114],
 "db/dcc/class_translator_korean.html#af182c1ab673fce1be5dd85c1f3b522f4":[9,0,602,233],
@@ -25,8 +23,8 @@ var NAVTREEINDEX89 =
 "db/dcd/struct_c_code_parser_1_1_private.html":[9,0,30,0],
 "db/dcd/struct_c_code_parser_1_1_private.html#a4a5c7467dc6b1d9efe804a03958abb26":[9,0,30,0,0],
 "db/dcd/struct_c_code_parser_1_1_private.html#abea0495cd793abd131500b53edd92b04":[9,0,30,0,1],
-"db/dcd/struct_output_gen_intf_1_1start_header_section.html":[9,0,5,104],
 "db/dcd/struct_output_gen_intf_1_1start_header_section.html":[8,0,11,104],
+"db/dcd/struct_output_gen_intf_1_1start_header_section.html":[9,0,5,104],
 "db/dcd/struct_output_gen_intf_1_1start_header_section.html#a1241753da570ef54e9f636b8d536a828":[8,0,11,104,0],
 "db/dcd/struct_output_gen_intf_1_1start_header_section.html#a1241753da570ef54e9f636b8d536a828":[9,0,5,104,0],
 "db/dd0/class_doc_simple_sect_sep.html":[9,0,184],
@@ -62,8 +60,8 @@ var NAVTREEINDEX89 =
 "db/de3/struct_page_context_1_1_private_1_1_cachable.html#a58b237f493f572b538adb46b0840295e":[9,0,430,0,0,0],
 "db/dec/struct_output_gen_intf_1_1docify.html":[9,0,5,3],
 "db/dec/struct_output_gen_intf_1_1docify.html":[8,0,11,3],
-"db/dec/struct_output_gen_intf_1_1docify.html#ac47df28bad52bb585497607d0db89f69":[9,0,5,3,0],
 "db/dec/struct_output_gen_intf_1_1docify.html#ac47df28bad52bb585497607d0db89f69":[8,0,11,3,0],
+"db/dec/struct_output_gen_intf_1_1docify.html#ac47df28bad52bb585497607d0db89f69":[9,0,5,3,0],
 "db/ded/class_concept_linked_map.html":[9,0,69],
 "db/df2/struct_output_gen_intf_1_1end_member_item.html":[8,0,11,55],
 "db/df2/struct_output_gen_intf_1_1end_member_item.html":[9,0,5,55],
@@ -75,12 +73,12 @@ var NAVTREEINDEX89 =
 "db/dfb/class_clang_parser_1_1_private.html":[9,0,35,0],
 "db/dfb/struct_output_code_intf_1_1end_code_line.html":[8,0,10,2],
 "db/dfb/struct_output_code_intf_1_1end_code_line.html":[9,0,4,2],
-"db/dfb/struct_output_code_intf_1_1end_code_line.html#a5d1fc85d69d0f3c5b5cb6d82ae6d7a8f":[9,0,4,2,0],
 "db/dfb/struct_output_code_intf_1_1end_code_line.html#a5d1fc85d69d0f3c5b5cb6d82ae6d7a8f":[8,0,10,2,0],
+"db/dfb/struct_output_code_intf_1_1end_code_line.html#a5d1fc85d69d0f3c5b5cb6d82ae6d7a8f":[9,0,4,2,0],
 "db/dff/structfmt_1_1formatter_3_01_relates_type_01_4.html":[9,0,2,5],
 "db/dff/structfmt_1_1formatter_3_01_relates_type_01_4.html":[8,0,6,5],
-"db/dff/structfmt_1_1formatter_3_01_relates_type_01_4.html#ab08af13d1acdb2d557425b33f71a561e":[9,0,2,5,0],
 "db/dff/structfmt_1_1formatter_3_01_relates_type_01_4.html#ab08af13d1acdb2d557425b33f71a561e":[8,0,6,5,0],
+"db/dff/structfmt_1_1formatter_3_01_relates_type_01_4.html#ab08af13d1acdb2d557425b33f71a561e":[9,0,2,5,0],
 "dc/d03/class_dot_incl_dep_graph.html":[9,0,208],
 "dc/d03/class_dot_incl_dep_graph.html#a00b3a6cdc1fbbc725b862fd6f474eefc":[9,0,208,6],
 "dc/d03/class_dot_incl_dep_graph.html#a197a7b8e9b068d122b062c80b21784e4":[9,0,208,13],
@@ -249,5 +247,7 @@ var NAVTREEINDEX89 =
 "dc/d03/class_translator_serbian_cyrillic.html#aa70581c3066afd3ac53605b4bd7a409f":[9,0,614,141],
 "dc/d03/class_translator_serbian_cyrillic.html#aa7394384163a79b41ce563bcb6808d3d":[9,0,614,145],
 "dc/d03/class_translator_serbian_cyrillic.html#aa7cef410dd0fc65132f72eea861b4a71":[9,0,614,201],
-"dc/d03/class_translator_serbian_cyrillic.html#aa81e6f588e7cdf62347c04b0979aa889":[9,0,614,165]
+"dc/d03/class_translator_serbian_cyrillic.html#aa81e6f588e7cdf62347c04b0979aa889":[9,0,614,165],
+"dc/d03/class_translator_serbian_cyrillic.html#aa9866c70346adb4b531786833cb27a22":[9,0,614,46],
+"dc/d03/class_translator_serbian_cyrillic.html#aa9a9fb6c26cce5d53f68fdab99ced23f":[9,0,614,114]
 };
