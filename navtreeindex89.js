@@ -1,5 +1,6 @@
 var NAVTREEINDEX89 =
 {
+"db/dcc/class_translator_korean.html#ae61a415c872901505bdc470a38aeb2a0":[9,0,602,134],
 "db/dcc/class_translator_korean.html#ae62477fd45428e9e9172016bbc29b304":[9,0,602,158],
 "db/dcc/class_translator_korean.html#ae8c31d2a88a97f93c605f6c2d5eb040e":[9,0,602,104],
 "db/dcc/class_translator_korean.html#ae9fa94f5a3ef46d1e824f7c6e804dfad":[9,0,602,193],
@@ -34,8 +35,8 @@ var NAVTREEINDEX89 =
 "db/dcd/struct_c_code_parser_1_1_private.html#abea0495cd793abd131500b53edd92b04":[9,0,30,0,1],
 "db/dcd/struct_output_gen_intf_1_1start_header_section.html":[8,0,11,104],
 "db/dcd/struct_output_gen_intf_1_1start_header_section.html":[9,0,5,104],
-"db/dcd/struct_output_gen_intf_1_1start_header_section.html#a1241753da570ef54e9f636b8d536a828":[9,0,5,104,0],
 "db/dcd/struct_output_gen_intf_1_1start_header_section.html#a1241753da570ef54e9f636b8d536a828":[8,0,11,104,0],
+"db/dcd/struct_output_gen_intf_1_1start_header_section.html#a1241753da570ef54e9f636b8d536a828":[9,0,5,104,0],
 "db/dd0/class_doc_simple_sect_sep.html":[9,0,184],
 "db/dd0/class_doc_simple_sect_sep.html#a0241095e18a716934460f34c80b4265b":[9,0,184,0],
 "db/dd3/class_eclipse_help.html":[9,0,220],
@@ -67,15 +68,15 @@ var NAVTREEINDEX89 =
 "db/dd9/class_anchor_generator.html#ab02a0dfd52baab313191a848b306c476":[9,0,13,9],
 "db/de3/struct_page_context_1_1_private_1_1_cachable.html":[9,0,430,0,0],
 "db/de3/struct_page_context_1_1_private_1_1_cachable.html#a58b237f493f572b538adb46b0840295e":[9,0,430,0,0,0],
-"db/dec/struct_output_gen_intf_1_1docify.html":[8,0,11,3],
 "db/dec/struct_output_gen_intf_1_1docify.html":[9,0,5,3],
-"db/dec/struct_output_gen_intf_1_1docify.html#ac47df28bad52bb585497607d0db89f69":[9,0,5,3,0],
+"db/dec/struct_output_gen_intf_1_1docify.html":[8,0,11,3],
 "db/dec/struct_output_gen_intf_1_1docify.html#ac47df28bad52bb585497607d0db89f69":[8,0,11,3,0],
+"db/dec/struct_output_gen_intf_1_1docify.html#ac47df28bad52bb585497607d0db89f69":[9,0,5,3,0],
 "db/ded/class_concept_linked_map.html":[9,0,69],
-"db/df2/struct_output_gen_intf_1_1end_member_item.html":[8,0,11,55],
 "db/df2/struct_output_gen_intf_1_1end_member_item.html":[9,0,5,55],
-"db/df2/struct_output_gen_intf_1_1end_member_item.html#a1e79fea61f65ed1b617fd9bfad0ecebe":[8,0,11,55,0],
+"db/df2/struct_output_gen_intf_1_1end_member_item.html":[8,0,11,55],
 "db/df2/struct_output_gen_intf_1_1end_member_item.html#a1e79fea61f65ed1b617fd9bfad0ecebe":[9,0,5,55,0],
+"db/df2/struct_output_gen_intf_1_1end_member_item.html#a1e79fea61f65ed1b617fd9bfad0ecebe":[8,0,11,55,0],
 "db/df4/configoptions_8h.html":[10,0,2,30],
 "db/df4/configoptions_8h.html#abc359bc733e3ae3512278e3014d83eb4":[10,0,2,30,0],
 "db/df4/configoptions_8h_source.html":[10,0,2,30],
@@ -248,6 +249,5 @@ var NAVTREEINDEX89 =
 "dc/d03/class_translator_serbian_cyrillic.html#aa0597bcc92c385ff7857e5098c0fb5d4":[9,0,614,186],
 "dc/d03/class_translator_serbian_cyrillic.html#aa0b9a6c8751a995d2ebf206758ca79dd":[9,0,614,112],
 "dc/d03/class_translator_serbian_cyrillic.html#aa1bd3e4ec1c320b219d32515055d27a5":[9,0,614,179],
-"dc/d03/class_translator_serbian_cyrillic.html#aa2bfbaae043f9a0f8473ffba434812b6":[9,0,614,63],
-"dc/d03/class_translator_serbian_cyrillic.html#aa3ae9ebbab55efd83812aeae18c8b638":[9,0,614,209]
+"dc/d03/class_translator_serbian_cyrillic.html#aa2bfbaae043f9a0f8473ffba434812b6":[9,0,614,63]
 };
