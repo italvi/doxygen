@@ -1,5 +1,6 @@
 var NAVTREEINDEX81 =
 {
+"da/db8/class_translator_armenian.html#aedf9b03d649dbc45ac4d23e8348e7352":[9,0,580,114],
 "da/db8/class_translator_armenian.html#aee0505b06b31446384d6d28d8ea7cacd":[9,0,580,55],
 "da/db8/class_translator_armenian.html#aeeccedcc2c8306f7c36f3e51c5e54cc0":[9,0,580,84],
 "da/db8/class_translator_armenian.html#aef15479fec1c3f8749badccee6793326":[9,0,580,12],
@@ -15,10 +16,10 @@ var NAVTREEINDEX81 =
 "da/db8/class_translator_armenian.html#afe63a0ee3fdf540bfd9f49dc45a8bbb5":[9,0,580,7],
 "da/db8/class_translator_armenian.html#afe693b07a06164151798e489e3063bc2":[9,0,580,61],
 "da/db8/class_translator_armenian.html#aff0bfdeb81d975433a7909c3fc3eef53":[9,0,580,39],
-"da/db8/struct_output_gen_intf_1_1start_inline_member_type.html":[8,0,11,116],
 "da/db8/struct_output_gen_intf_1_1start_inline_member_type.html":[9,0,5,116],
-"da/db8/struct_output_gen_intf_1_1start_inline_member_type.html#a86ffffca03a9af325ed380772dcf4fef":[9,0,5,116,0],
+"da/db8/struct_output_gen_intf_1_1start_inline_member_type.html":[8,0,11,116],
 "da/db8/struct_output_gen_intf_1_1start_inline_member_type.html#a86ffffca03a9af325ed380772dcf4fef":[8,0,11,116,0],
+"da/db8/struct_output_gen_intf_1_1start_inline_member_type.html#a86ffffca03a9af325ed380772dcf4fef":[9,0,5,116,0],
 "da/dba/class_globals_index_context.html":[9,0,302],
 "da/dba/class_globals_index_context.html#a815545f532a12abc582a2defebd16c9c":[9,0,302,4],
 "da/dba/class_globals_index_context.html#abad9bbb73ec5291ac82eada6db440523":[9,0,302,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX81 =
 "da/dbb/class_translator_bulgarian.html#ac3a21bc716faaf312599212c35ba549a":[9,0,582,172],
 "da/dbb/class_translator_bulgarian.html#ac48ea02ed8f95f519f1c0c2defca5613":[9,0,582,246],
 "da/dbb/class_translator_bulgarian.html#ac4cf1d062e159dbff93499944652ccd2":[9,0,582,78],
-"da/dbb/class_translator_bulgarian.html#ac565d447f590454b31c96e0d3034ca60":[9,0,582,149],
-"da/dbb/class_translator_bulgarian.html#ac7d15f19bfde8e32d4ce4fe3df05bdbe":[9,0,582,86]
+"da/dbb/class_translator_bulgarian.html#ac565d447f590454b31c96e0d3034ca60":[9,0,582,149]
 };
