@@ -6737,7 +6737,7 @@ QCString getLanguageSpecificSeparator(SrcLangExt lang,bool classScope)
 bool isURL(const QCString &url)
 {
   static const std::unordered_set<std::string> schemes = {
-    "http", "https", "ftp", "ftps", "sftp", "file", "news", "irc", "ircs"
+    "http", "https", "ftp", "ftps", "sftp", "file", "news", "irc", "ircs", "festo-cbea", "ea"
   };
   QCString loc_url = url.stripWhiteSpace();
   int colonPos = loc_url.find(':');
